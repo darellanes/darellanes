@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darellanes. I am a university student majoring in computer science and mathematics.
-- 👀 I’m interested in cryptography research, data science and machine learning. 
+- 👀 I’m interested in cryptography research, data science and forensics. 
 - 💞️ I’m looking to collaborate on anything. I am always interested in learning new things and working with new people :)
 
 <!---
